@@ -13,6 +13,9 @@ fifth line added
 
 some text for partial commit
 
+I am using gitlab now !
+
+Another lin added 2018 
 
 Tipu Sultan
 
