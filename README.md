@@ -9,7 +9,7 @@
 ⋅⋅1. Ordered sub-list
 4. And another item.
 default
-[![Latest Stable Version]
+[![License](https://poser.pugx.org/phpunit/phpunit/license)](https://github.com/ojkalam/online-blog-and-exam)
 default
 
 ```
