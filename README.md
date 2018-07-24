@@ -9,7 +9,7 @@
 ⋅⋅1. Ordered sub-list
 4. And another item.
 default
-[![Latest Stable Version](https://poser.pugx.org/phpunit/phpunit/v/stable)](https://packagist.org/packages/phpunit/phpunit)
+[![Latest Stable Version]
 default
 
 ```
