@@ -30,3 +30,5 @@ Added some new text for amend commit withot reset
 my new changess 1
 
 changes 2 text
+
+change fron php strom
